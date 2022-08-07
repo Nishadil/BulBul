@@ -1,0 +1,35 @@
+{
+  "name": "bulbul",
+  "version": "1.0.0",
+  "description": "bulbul css, html, javascript framework for responsive and mobile-first design",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nishadil/bulbul.git"
+  },
+  "keywords": [
+    "bulbul",
+    "css",
+    "html",
+    "javascript",
+    "framework",
+    "responsive",
+    "mobile-first",
+    "web-ui",
+    "responsive-ui"
+  ],
+  "author": "Nishadil",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nishadil/bulbul/issues"
+  },
+  "homepage": "https://github.com/nishadil/bulbul#readme",
+  "devDependencies": {
+    "jquery": "^3.6.0",
+    "sass": "^1.54.3",
+    "shelljs": "^0.8.5"
+  }
+}
