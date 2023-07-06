@@ -1,0 +1,59 @@
+/*!
+ * BulBul-Core v1.0.0 (https://bulbul.com/)
+ * Copyright 2022-2023 The Bulbul Authors
+ * Licensed under MIT (https://github.com/nishadil/bulbul/blob/main/LICENSE)
+ */
+
+
+
+/* Display Classes */
+.d-block,
+.block{
+    display: block;
+}
+.d-inline{
+    display: inline;
+}
+.d-flex{
+    display: flex;
+}
+.d-table{
+    display: table;
+}
+.d-grid{
+    display: grid;
+}
+.d-none,
+.d-hidden,
+.hidden{
+    display: none;
+}
+.d-inline-block,
+.d-block-inline{
+    display: inline-block;
+}
+.d-inline-flex,
+.d-flex-inline{
+    display: inline-flex;
+}
+.d-inline-table,
+.d-table-inline{
+    display: inline-table;
+}
+.d-inline-grid,
+.d-grid-inline{
+    display: inline-grid;
+}
+
+
+
+/* Float Classes */
+.f-right{
+    float: right;
+}
+.f-left{
+    float: left;
+}
+.f-none{
+    float: none;
+}

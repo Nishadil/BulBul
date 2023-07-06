@@ -1,0 +1,18 @@
+/*!
+ * BulBul-Grid v1.0.0 (https://bulbul.com/)
+ * Copyright 2022-2023 The Bulbul Authors
+ * Licensed under MIT (https://github.com/nishadil/bulbul/blob/main/LICENSE)
+ */
+
+ .container,
+ .max-container,
+ .xs-container,
+ .sm-container,
+ .md-container,
+ .lg-container,
+ .xl-container,
+ .xxl-container{
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%;
+ }
