@@ -1,0 +1,12 @@
+{
+    "name": "nishadil/bulbul",
+    "description": "Bulbul css, html, javascript framework for responsive and mobile-first design",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nishadil Dev Team",
+            "email": "opensource@nishadil.com"
+        }
+    ],
+    "require": {}
+}
